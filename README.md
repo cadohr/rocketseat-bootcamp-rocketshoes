@@ -13,13 +13,13 @@ A ecommerce store in reactjs
 Clone the project with
 
 ```sh
-git clone https://github.com/cadohr/rocketseat-bootcamp-modulo07.git
+git clone https://github.com/cadohr/rocketseat-bootcamp-rocketshoes.git
 ```
 
 Get in the project path
 
 ```sh
-cd rocketseat-bootcamp-desafio07
+cd rocketseat-bootcamp-rocketshoes
 ```
 
 Then install the dependencies with:
